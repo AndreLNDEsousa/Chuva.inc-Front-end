@@ -11,7 +11,7 @@ O caso de tutela abusiva sofrido pela cantora norte americana Britney Spears.
  - [GOOGLE FONT](https://fonts.google.com/)
 # IDE
 - VSCODE
-##faça o doenload da versão mais atualizada do VSCode aqui[ ⬇️](https://code.visualstudio.com/Download)
+##faça o download da versão mais recente do VSCode aqui[ ⬇️](https://code.visualstudio.com/Download)
 
 ## Objetivo
 - Exercicio para oportunidade de estágio.
